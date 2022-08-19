@@ -1,4 +1,4 @@
-﻿**Universidad de San Carlos de Guatemala Redes de Computadoras 1 N**
+**Universidad de San Carlos de Guatemala Redes de Computadoras 1 N**
 
 **Segundo Semestre 2022**
 
@@ -70,7 +70,8 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.009.jpeg)
 
-Marvin Eduardo Catalán Véliz Cloud\_Jose
+Marvin Eduardo Catalán Véliz 
+Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.010.jpeg)
 
@@ -88,7 +89,8 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.014.jpeg)
 
-Julio José Orellana Ruíz Cloud\_Jose
+Julio José Orellana Ruíz 
+Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.015.jpeg)
 
@@ -104,7 +106,8 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.018.jpeg)
 
-Kenny Steven Rodas Velasquez Cloud\_Jose
+Kenny Steven Rodas Velasquez 
+Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.019.jpeg)
 
@@ -119,22 +122,6 @@ Cloud\_Julio
 Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.022.jpeg)
-
-Ping jose
-
-![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.023.png)
-
-Ping marvin
-
-![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.024.png)
-
-Ping julio
-
-![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.025.png)
-
-Ping Sara
-
-![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.026.png)
 
 Sara Paulina Medrano Cojulún Cloud\_Jose
 
@@ -154,7 +141,8 @@ Cloud\_Kenny
 
 **Ping a clientes**
 
-José Alberto Alarcón Chigua Cloud\_Marvin>ping 192.168.111.20
+José Alberto Alarcón Chigua 
+Cloud\_Marvin>ping 192.168.111.20
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.031.png)
 
@@ -170,7 +158,8 @@ Cloud\_Sara>ping 192.168.111.50
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.034.png)
 
-**Marvin Eduardo Catalán Véliz** Cloud\_Jose>ping 192.168.111.10
+**Marvin Eduardo Catalán Véliz** 
+Cloud\_Jose>ping 192.168.111.10
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.035.png)
 
@@ -186,7 +175,8 @@ Cloud\_Sara>ping 192.168.111.50
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.038.png)
 
-**Julio José Orellana Ruíz** Cloud\_José>ping 192.168.111.10
+**Julio José Orellana Ruíz** 
+Cloud\_José>ping 192.168.111.10
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.039.png)
 
@@ -202,9 +192,26 @@ Cloud\_Marvin>ping 192.168.111.20
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.042.png)
 
-**Ping a clientes**
+**Kenny Steven Rodas Velasquez **
 
-**Sara Paulina Medrano Cojulún Cloud\_José>ping 192.168.111.10**
+Ping jose
+
+![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.023.png)
+
+Ping marvin
+
+![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.024.png)
+
+Ping julio
+
+![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.025.png)
+
+Ping Sara
+
+![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.026.png)
+
+**Sara Paulina Medrano Cojulún** 
+**Cloud_José>ping 192.168.111.10**
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.043.png)
 
