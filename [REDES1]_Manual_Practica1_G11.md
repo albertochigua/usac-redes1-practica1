@@ -48,13 +48,15 @@
 
 **Sara Paulina Medrano Cojulún**
 
-**201908053**
-
 **Cliente5>192.168.111.50 255.255.255.0 192.168.111.1**
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.005.jpeg)
 
-**Configuración de las nubes** José Alberto Alarcón Chigua Cloud\_Marvin
+**Configuración de las nubes** 
+
+**José Alberto Alarcón Chigua** 
+
+Cloud\_Marvin
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.006.jpeg)
 
@@ -70,7 +72,8 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.009.jpeg)
 
-Marvin Eduardo Catalán Véliz 
+**Marvin Eduardo Catalán Véliz**
+
 Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.010.jpeg)
@@ -79,7 +82,6 @@ Cloud\_Julio
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.011.jpeg)
 
-![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.012.jpeg)
 
 Cloud\_Kenny
 
@@ -89,7 +91,8 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.014.jpeg)
 
-Julio José Orellana Ruíz 
+**Julio José Orellana Ruíz** 
+
 Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.015.jpeg)
@@ -106,7 +109,8 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.018.jpeg)
 
-Kenny Steven Rodas Velasquez 
+**Kenny Steven Rodas Velasquez**
+
 Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.019.jpeg)
@@ -123,7 +127,9 @@ Cloud\_Sara
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.022.jpeg)
 
-Sara Paulina Medrano Cojulún Cloud\_Jose
+**Sara Paulina Medrano Cojulún*
+
+Cloud\_Jose
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.027.jpeg)
 
@@ -141,7 +147,8 @@ Cloud\_Kenny
 
 **Ping a clientes**
 
-José Alberto Alarcón Chigua 
+**José Alberto Alarcón Chigua**
+
 Cloud\_Marvin>ping 192.168.111.20
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.031.png)
@@ -158,7 +165,8 @@ Cloud\_Sara>ping 192.168.111.50
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.034.png)
 
-**Marvin Eduardo Catalán Véliz** 
+**Marvin Eduardo Catalán Véliz**
+
 Cloud\_Jose>ping 192.168.111.10
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.035.png)
@@ -176,6 +184,7 @@ Cloud\_Sara>ping 192.168.111.50
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.038.png)
 
 **Julio José Orellana Ruíz** 
+
 Cloud\_José>ping 192.168.111.10
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.039.png)
@@ -184,11 +193,11 @@ Cloud\_Marvin>ping 192.168.111.20
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.040.png)
 
-**Cloud\_Kenny>ping 192.168.111.40**
+Cloud\_Kenny>ping 192.168.111.40
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.041.png)
 
-**Cloud\_Sara>ping 192.168.111.50**
+Cloud\_Sara>ping 192.168.111.50
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.042.png)
 
@@ -211,18 +220,19 @@ Ping Sara
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.026.png)
 
 **Sara Paulina Medrano Cojulún** 
-**Cloud_José>ping 192.168.111.10**
+
+Cloud_José>ping 192.168.111.10
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.043.png)
 
-**Cloud\_Marvin>ping 192.168.111.20**
+Cloud\_Marvin>ping 192.168.111.20
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.044.png)
 
-**Cloud\_Julio>ping 192.168.111.30**
+Cloud\_Julio>ping 192.168.111.30
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.045.png)
 
-**Cloud\_Kenny>ping 192.168.111.40**
+Cloud\_Kenny>ping 192.168.111.40
 
 ![](./images/Aspose.Words.14191367-7e24-4a2b-8201-04a60bd8787c.046.png)
